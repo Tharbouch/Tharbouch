@@ -13,7 +13,7 @@ My:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharbouch&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharbouch&bg_color=00000000&show_icons=true&theme=dracula)
 
 ## Tools
 #### Web Developpement
