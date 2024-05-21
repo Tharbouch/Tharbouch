@@ -1,14 +1,14 @@
 # Me
 ### Hi Everyone 👋
 
-#### I am a Computer Science Student Intrested in creating machine learning model and mern stack 
-My:
+#### I am a Master’s Student in Cybersecurity, Interested in Web Security
 
+My:
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-harbouch)
 
 <hr>
 
-- 🔭 I’m currently focus on creating machine learning model and mern stack 
+- 🔭 I’m currently focus on leaning about web security
 - 📫 How to reach me: tahaharbouch1@gmail.com
 
 
