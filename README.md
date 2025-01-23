@@ -11,7 +11,12 @@ My:
 - 🔭 I’m currently focus on leaning about web security
 - 📫 How to reach me: tahaharbouch1@gmail.com
 
+## My Fav Repositories
 
+[![Toward Secure Code](https://github-readme-stats.vercel.app/api/pin/?username=Tharbouch&repo=Toward-Secure-Code&theme=dark)](https://github.com/Tharbouch/Toward-Secure-Code) 
+[![Malware Detection Using PE File](https://github-readme-stats.vercel.app/api/pin/?username=Tharbouch&repo=Malware-Detection-Using-PE-File&theme=dark)](https://github.com/Tharbouch/Malware-Detection-Using-PE-File) 
+[![Web Accessibility Tester](https://github-readme-stats.vercel.app/api/pin/?username=Tharbouch&repo=Web-Accessibility-Tester&theme=dark)](https://github.com/Tharbouch/Web-Accessibility-Tester)
+[![SSH Honeypot](https://github-readme-stats.vercel.app/api/pin/?username=Tharbouch&repo=SSH-Honeypot&theme=dark)](https://github.com/Tharbouch/SSH-Honeypot)
 
 
 ## Tools
