@@ -9,7 +9,6 @@ My:
 <hr>
 
 - 🔭 I’m currently focus on leaning about web security
-- 📫 How to reach me: tahaharbouch1@gmail.com
 
 ## My Fav Repositories
 
